@@ -1,4 +1,4 @@
-# Elements Demo
+# Angular Elements Demo
 
 This is just a demo of Angular Elements that makes a super simple clone of the Momentum dashboard Chrome extension.
 
